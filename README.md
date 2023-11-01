@@ -137,7 +137,4 @@ This README provides a brief overview of the topics covered in this LaTeX worksh
 }
 ```
 
-You can use this README as a starting point for your GitHub repository for the LaTeX workshop on Overleaf. Make sure to add your workshop-specific information, further details, and any additional resources you'd like to include.
-```
-
-You can copy and paste this code into your GitHub README.md file.
+##Thank You for Attending
