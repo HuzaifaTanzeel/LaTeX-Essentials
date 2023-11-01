@@ -137,4 +137,4 @@ This README provides a brief overview of the topics covered in this LaTeX worksh
 }
 ```
 
-##Thank You for Attending
+### Thank You for Attending
