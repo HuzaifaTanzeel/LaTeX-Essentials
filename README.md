@@ -39,6 +39,7 @@ In LaTeX, a document consists of a preamble and the document body. We will cover
 LaTeX provides various commands for text formatting, such as font styles, sizes, and text alignment.
 
 ```latex
+\section{}
 \subsection{}
 ```
 
