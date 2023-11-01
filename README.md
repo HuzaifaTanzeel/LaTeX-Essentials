@@ -15,6 +15,7 @@ Welcome to the LaTeX Workshop on Overleaf! This README serves as a guide to the 
 - [Lists](#lists)
 - [Tables](#tables)
 - [Figures and Images](#figures-and-images)
+- [Adding a URL](#adding-a-url)
 - [References and Citations](#references-and-citations)
 - [Additional Resources](#additional-resources)
 
@@ -112,6 +113,13 @@ LaTeX makes it easy to insert figures and images into your documents.
 ### LaTeX Tags
 - Inserting a Figure: `\begin{figure} \includegraphics{image-file} \end{figure}`
 - Figure Captions: `\caption{Your caption}`
+
+
+## Adding a URL
+
+```latex
+\url{https://oladoc.com/}
+```
 
 ## References and Citations
 Learn how to create and manage references and citations using BibTeX.
