@@ -72,6 +72,18 @@ Lists are a common part of documents. LaTeX allows you to create both ordered an
 ## Tables
 Tables are essential for presenting data in a structured way. You will learn how to create tables in LaTeX.
 
+```latex
+\begin{tabular}{|c|l|r|}
+\hline
+Column 1 (centered) & Column 2 (left-aligned) & Column 3 (right-aligned) \\
+\hline
+Item 1 & Description of Item 1 & $19.99$ \\
+Item 2 & Description of Item 2 & $29.95$ \\
+Item 3 & Description of Item 3 & $14.50$ \\
+\hline
+\end{tabular}
+```
+
 ### LaTeX Tags
 - Table Environment: `\begin{tabular} ... \end{tabular}`
 - Column Alignment: `c`, `l`, `r`
