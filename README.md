@@ -33,15 +33,16 @@ In LaTeX, a document consists of a preamble and the document body. We will cover
 \begin{document}
 ```
 
+
+### LaTeX Tags
+- Document Class: `\documentclass{class}`
+
 ## Table of Contents
 
 ```latex
 \tableofcontents
 ```
 
-
-### LaTeX Tags
-- Document Class: `\documentclass{class}`
 
 ## Formatting Text
 LaTeX provides various commands for text formatting, such as font styles, sizes, and text alignment.
