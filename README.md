@@ -9,7 +9,7 @@ Welcome to the LaTeX Workshop on Overleaf! This README serves as a guide to the 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Basic Document Structure](#basic-document-structure)
-- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents-format)
 - [Formatting Text](#formatting-text)
 - [Mathematics](#mathematics)
 - [Lists](#lists)
@@ -37,7 +37,7 @@ In LaTeX, a document consists of a preamble and the document body. We will cover
 ### LaTeX Tags
 - Document Class: `\documentclass{class}`
 
-## Table of Contents
+## Table of Contents Format
 
 ```latex
 \tableofcontents
