@@ -118,7 +118,7 @@ LaTeX makes it easy to insert figures and images into your documents.
 ## Adding a URL
 
 ```latex
-\url{https://oladoc.com/}
+\url{https://imaginecup.microsoft.com/en-us}
 ```
 
 ## References and Citations
