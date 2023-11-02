@@ -76,7 +76,7 @@ LaTeX is widely used in scientific and mathematical documents. You will learn ho
 - Display Math: `\[...\]`
 - Mathematical Symbols: `\frac{}`, `\sum`, `\sqrt{}`, `\int`
 
-  ```latex
+```latex
 Inline Math: $E=mc^2$
 Display Math: \[F=ma\]
 Fractions: $\frac{a}{b}$
