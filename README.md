@@ -76,6 +76,15 @@ LaTeX is widely used in scientific and mathematical documents. You will learn ho
 - Display Math: `\[...\]`
 - Mathematical Symbols: `\frac{}`, `\sum`, `\sqrt{}`, `\int`
 
+  ```latex
+Inline Math: $E=mc^2$
+Display Math: \[F=ma\]
+Fractions: $\frac{a}{b}$
+Summation: $\sum_{i=1}^{n} i$
+Square Root: $\sqrt{x}$
+Integration: $\int_{a}^{b} f(x) \, dx$
+```
+
 ## Lists
 Lists are a common part of documents. LaTeX allows you to create both ordered and unordered lists.
 
