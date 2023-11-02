@@ -32,6 +32,8 @@ In LaTeX, a document consists of a preamble and the document body. We will cover
 \documentclass[12pt,a4paper]{article}
 
 \begin{document}
+
+\end{document}
 ```
 
 
