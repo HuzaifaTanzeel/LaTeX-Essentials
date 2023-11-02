@@ -5,6 +5,8 @@
 
 Welcome to the LaTeX Workshop on Overleaf! This README serves as a guide to the workshop, covering key topics and providing LaTeX code examples. If you're new to LaTeX or want to learn more, you're in the right place.
 
+![MLSA](https://github.com/HuzaifaTanzeel/LaTeX-Essentials/blob/main/download.jpg)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
