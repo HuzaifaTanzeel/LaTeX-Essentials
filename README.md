@@ -7,6 +7,12 @@ Welcome to the LaTeX Workshop on Overleaf! This README serves as a guide to the 
 
 ![MLSA](https://github.com/HuzaifaTanzeel/LaTeX-Essentials/blob/main/download.jpg)
 
+## Organizers
+- [Ali Nadir (Lead MLSA FAST Karachi)](https://www.linkedin.com/in/salinadir/)
+- [Huzaifa Tanzeel (Co-Lead MLSA FAST Karachi)](https://www.linkedin.com/in/huzaifatanzeel/)
+
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
